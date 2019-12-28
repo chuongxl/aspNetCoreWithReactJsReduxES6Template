@@ -2,6 +2,6 @@
 ## asp.net core 3.1
 ## reactjs
 ## redux
-## reacttrap
+## reactstrap
 ## build and compile with react-scripts
 ## remove typescripts
