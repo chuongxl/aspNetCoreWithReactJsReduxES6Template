@@ -4,5 +4,5 @@
 ## 3.redux
 ## 4.reactstrap
 ## 5.build and compile with react-scripts
-## 6.Support ES6
-#### if you dont want to work with typescript, it's for you
+## 6.only Support ES6
+
