@@ -4,4 +4,4 @@
 ## redux
 ## reactstrap
 ## build and compile with react-scripts
-## remove typescripts
+## Support ES6
